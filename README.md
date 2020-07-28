@@ -6,6 +6,8 @@ Seja bem-vindo a minha humilde conta no [![](https://img.shields.io/static/v1?la
 
 Curto bastante livros e filmes de ficção científica, e  busco entender e ajudar a construir alternativas possíveis para uma sociedade em que todas as contradições do capitalismo sejam superadas e todos os seres humanos estejam emancipados através da minha entidade de classe.
 
+### Contatos
+
 [![E-mail](https://img.shields.io/badge/-E--mail-blue)](mailto:sassi.pereira.gilberto@gmail.com)
 [![GitLab](https://img.shields.io/static/v1?label=GitLab&message=gilberto-sassi&color=orange&logo=gitlab)](https://gitlab.com/gilberto-sassi)
 
