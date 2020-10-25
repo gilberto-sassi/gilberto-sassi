@@ -11,6 +11,11 @@ Curto livros e filmes de ficção científica, e  busco entender e ajudar a cons
 Sinta-se a vontade para entrar em contato!
 
 [![E-mail](https://img.shields.io/static/v1?label=Gmail&message=sassi.pereira.gilberto&color=red&logo=gmail)](mailto:sassi.pereira.gilberto@gmail.com)
+
 [![GitLab](https://img.shields.io/static/v1?label=GitLab&message=gilberto-sassi&color=orange&logo=gitlab)](https://gitlab.com/gilberto-sassi)
+
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=gilberto_sassi&color=blue&logo=twitter)](https://twitter.com/gilberto_sassi)
 
+### Página pessoal
+
+Sinta-se a vontade para visitar a minha página pessoal: [![Netlify](https://img.shields.io/badge/Netlify-Página%20pessoal-brightgreen)](https://gilberto-sassi.netlify.app/pt/). Lá, eu organizo algumas postagens sobre estatística e ciência de dados, e também coloco os mateŕiais didáticos das disciplina que eu leciono na [Universidade Federal da Bahia](https://est.ufba.br) e os projetos de pesquisa que eu estou envolvido.
