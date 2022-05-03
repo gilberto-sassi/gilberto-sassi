@@ -11,7 +11,7 @@ Curto livros e filmes de ficção científica, e  busco entender e ajudar a cons
 Sinta-se a vontade para entrar em contato!
 
 [![E-mail](https://img.shields.io/static/v1?label=Gmail&message=sassi.pereira.gilberto&color=red&logo=gmail)](mailto:sassi.pereira.gilberto@gmail.com)
-[![Linkedin](https://img.shields.io/static/v1?label=Linkedinb&message=gilberto-sassi&color=blue&logo=linkedin)](https://www.linkedin.com/in/gilberto-sassi/)
+[![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=gilberto-sassi&color=blue&logo=linkedin)](https://www.linkedin.com/in/gilberto-sassi/)
 
 ### Página pessoal
 
