@@ -15,4 +15,4 @@ Sinta-se a vontade para entrar em contato!
 
 ### Página pessoal
 
-Sinta-se a vontade para visitar a minha página pessoal: [![Netlify](https://img.shields.io/badge/Netlify-Página%20pessoal-brightgreen)](https://gilbertosassi.netlify.app/pt/). Lá, eu organizo algumas postagens sobre estatística e ciência de dados, e também coloco os mateŕiais didáticos das disciplina que eu leciono na [Universidade Federal da Bahia](https://est.ufba.br) e os projetos de pesquisa que eu estou envolvido.
+Sinta-se a vontade para visitar a minha página pessoal: [![Netlify](https://img.shields.io/badge/Netlify-Página%20pessoal-brightgreen)](https://gilbertosassi.netlify.app). Lá, eu organizo algumas postagens sobre estatística e ciência de dados, e também coloco os mateŕiais didáticos das disciplina que eu leciono na [Universidade Federal da Bahia](https://est.ufba.br) e os projetos de pesquisa que eu estou envolvido.
