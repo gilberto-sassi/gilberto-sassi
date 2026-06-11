@@ -4,7 +4,7 @@ Meu nome é Gilberto, sou servidor público federal e trabalho na Universidade F
 
 Seja bem-vindo a minha conta no [![](https://img.shields.io/static/v1?label=GitHub&message=gilberto-sassi&color=black&logo=github)](https://github.com/gilberto-sassi/) . Aqui eu coloco alguns pacotes que desenvolvi em linguagem `R`e `python`, notas de aulas, códigos quarto de website, entre outros.
 
-Curto livros e filmes de ficção científica, e tenho interesse em estatística ciência de dados, mineração de dados, Integligência artificial, deep learning e séries temporais.
+Curto livros e filmes de ficção científica, e tenho interesse em Estatística e Ciência de Dados, Mineração de Dados, Inteligência artificial, Deep Learning e Séries Temporais e suas Aplicações.
 
 Integro o [Observatório de Economia Criativa da Bahia (OBEC Bahia)](https://obecbahia.com/) como pesquisador.
 
