@@ -4,7 +4,9 @@ Meu nome é Gilberto, sou servidor público federal e trabalho na Universidade F
 
 Seja bem-vindo a minha humilde conta no [![](https://img.shields.io/static/v1?label=GitHub&message=gilberto-sassi&color=black&logo=github)](https://github.com/gilberto-sassi/) . Aqui eu coloco alguns pacotes em linguagem `R`e `python`, notas de aulas, códigos quarto de website, entre outros.
 
-Curto livros e filmes de ficção científica, e  busco entender e ajudar a construir alternativas possíveis para uma sociedade em que todas as contradições do capitalismo sejam superadas e todos os seres humanos estejam emancipados. Me esforço para participar da minha entidade de classe.
+Curto livros e filmes de ficção científica, tenho interesse em estatística ciência de dados, mineração de dados, Integligência artificial, deep learning e séries temporais.
+
+Integro o [Observatório de Economia Criativa da Bahia (OBEC Bahia)](https://obecbahia.com/) como pesquisador.
 
 ### Contatos
 
@@ -14,4 +16,4 @@ Sinta-se a vontade para entrar em contato!
 
 ### Página pessoal
 
-Sinta-se a vontade para visitar a minha página pessoal: [![Netlify](https://img.shields.io/badge/Netlify-Página%20pessoal-brightgreen)](https://gilbertosassi.netlify.app). Lá, eu organizo algumas postagens sobre estatística e ciência de dados, e também coloco os materiais didáticos das disciplina que eu leciono na [Universidade Federal da Bahia](https://est.ufba.br) e os projetos de pesquisa e extens que eu estou envolvido.
+Sinta-se a vontade para visitar a minha página pessoal: [![Netlify](https://img.shields.io/badge/Netlify-Página%20pessoal-brightgreen)](https://gilbertosassi.netlify.app). Lá, eu organizo minhas publicações, coloco os materiais didáticos das disciplina que eu leciono na [Universidade Federal da Bahia](https://est.ufba.br) e os projetos de pesquisa e extensão que eu estou envolvido.
